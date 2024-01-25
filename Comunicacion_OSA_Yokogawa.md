@@ -2,7 +2,7 @@
 
 ### Matlab programming language - 2024
 
-$ \mathcal{Daniel ~H. ~Martínez ~S. ~-~ UdeA} $ \
+*Daniel H. Martínez S. - UdeA* \
 dhumberto.martinez@udea.edu.co
 
 Yokogawa sources: 
